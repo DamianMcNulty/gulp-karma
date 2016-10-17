@@ -1,6 +1,6 @@
 [![devDependency Status](https://david-dm.org/karma-runner/gulp-karma/dev-status.png?branch=master)](https://david-dm.org/karma-runner/gulp-karma#info=devDependencies)
 
-# gulp-karma
+# gulp-karm
 
 > [Karma](https://github.com/karma-runner/karma) integration into [Gulp.js](http://gulpjs.com/)-based build.
 
